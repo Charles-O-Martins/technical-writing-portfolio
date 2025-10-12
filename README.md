@@ -9,7 +9,7 @@ Here you’ll find tutorials, deep-dive explanations, case studies, and best pra
 Step-by-step guides that simplify complex tasks.
 
 - [Git and GitHub for Beginners](https://github.com/Charles-O-Martins/technical-writing-portfolio/wiki/Git-and-Github-for-Beginners)
-- 
+- [Getting Started with dotNET Core: Fundamentals and Setup](https://github.com/Charles-O-Martins/technical-writing-portfolio/wiki/Getting-Started-with-dotNET-Core:-Fundamentals-and-Setup)
 
 ---
 
