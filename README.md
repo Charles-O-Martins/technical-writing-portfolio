@@ -37,4 +37,4 @@ Articles focused on industry standards and professional practices.
 
 ---
 
-
+📩 Contact me on LinkedIn or via email: martinscharles561@email.com
